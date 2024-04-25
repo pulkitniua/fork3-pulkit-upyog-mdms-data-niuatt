@@ -696,6 +696,21 @@
       "code": "SYS_INTEGRATOR_GIS",
       "name": "System Integrator GIS",
       "description": "Role for allowing system integration of GIS app with UPYOG"
+    },
+    {
+      "code": "ASSET_INITIATOR",
+      "name": "Asset Initiator Employee",
+      "description": "Employee in Asset Application who files asset Registration"
+    },
+    {
+      "code": "ASSET_VERIFIER",
+      "name": "Asset Document Verifier",
+      "description": "Asset Registration Information/Document Verifier"
+    },
+    {
+      "code": "ASSET_APPROVER",
+      "name": "Asset Approver",
+      "description": "Asset Application Approver"
     }
   ]
 }
