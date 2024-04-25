@@ -15337,6 +15337,39 @@
       "serviceCode": "wns",
       "code": "null",
       "path": "WS Report"
-    }
+    },
+    {
+      "id": 2613,
+      "name": "Create Asset registration",
+      "url": "/asset-services/v1/asset/_create",
+      "displayName": "Create Asset Registration",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "asset-services",
+      "code": "null",
+      "path": ""
+   },
+   {
+      "id": 2614,
+      "name": "Update Asset registration",
+      "url": "/asset-services/v1/asset/_update",
+      "displayName": "Update Asset Application",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "asset-services",
+      "code": "null",
+      "path": ""
+   },
+   {
+      "id": 2615,
+      "name": "Search Assets",
+      "url": "/asset-services/v1/asset/_search",
+      "displayName": "Search Assets",
+      "orderNumber": 3,
+      "enabled": false,
+      "serviceCode": "asset-services",
+      "code": "null",
+      "path": ""
+   }
    ]
 }
