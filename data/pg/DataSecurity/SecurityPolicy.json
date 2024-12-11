@@ -1276,7 +1276,7 @@
       "model": "ADVApplicantDetailDecrypDisabled",
       "uniqueIdentifier": {
         "name": "applicantDetailId",
-        "jsonPath": "applicantDetailId"
+        "jsonPath": "/applicantDetailId"
       },
       "attributes": [
         {
@@ -1403,7 +1403,7 @@
       "model": "SVApplicantDetailDecrypDisabled",
       "uniqueIdentifier": {
         "name": "vendorId",
-        "jsonPath": "vendorId"
+        "jsonPath": "/vendorId"
       },
       "attributes": [
         {
