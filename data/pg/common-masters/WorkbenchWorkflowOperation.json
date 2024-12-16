@@ -1,0 +1,16 @@
+{
+    "tenantId": "pg",
+    "moduleName": "common-masters",
+    "WorkbenchWorkflowOperation": [
+      {
+        "name": "Create Workflow",
+        "code": "CREATE_WORKFLOW",
+        "active": true
+      },
+      {
+        "name": "Update Workflow",
+        "code": "UPDATE_WORKFLOW",
+        "active": true
+      }
+    ]
+}    
